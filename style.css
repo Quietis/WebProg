@@ -1,3 +1,8 @@
+body {
+  background-image: url("Risorse/Qt-cat.jpg");
+  background-size: cover;
+}
+
 main {
   background-color: grey;
 }
