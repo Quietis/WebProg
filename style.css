@@ -6,3 +6,8 @@ body {
 main {
   background-color: grey;
 }
+
+.box {
+  background-color: white;
+  filter: sepia(50%);
+}
